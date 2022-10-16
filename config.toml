@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://mlohnrob.github.io"
 languageCode = "en-us"
 title = "Emmery Technologies"
 themesDir = "themes"
