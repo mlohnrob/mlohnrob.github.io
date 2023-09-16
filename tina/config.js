@@ -20,8 +20,8 @@ const branch = "master";
 
 export default defineConfig({
   branch,
-  clientId: null, // Get this from tina.io
-  token: null, // Get this from tina.io
+  clientId: "3f91c481-51c2-4847-a7e7-42de14bfbaeb", // Get this from tina.io
+  token: "18fd593c0e18e53a615c20989771b4aba0c1e49c", // Get this from tina.io
   client: { skip: true },
   build: {
     outputFolder: "admin",
