@@ -1,0 +1,3 @@
+baseURL = 'https://nidas.app/'
+languageCode = 'da-dk'
+title = 'Nidas Technologies'
