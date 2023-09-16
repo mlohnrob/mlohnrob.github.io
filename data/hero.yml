@@ -1,5 +1,5 @@
 enable: true
-topTitle: We Are Helmani!
+topTitle: We Are Nidas!
 content: >
   # Healthy Food, Healthy Life
 
@@ -7,7 +7,6 @@ content: >
   Iran toi bring you a healthier and tastier life!
 buttonName: Contact Us
 buttonURL: contact
-image: images/hero/nuts.jpg
-videoThumb: images/hero/pistachios.jpg
+image: /imagesimages/hero/nuts.jpg
+videoThumb: /imagesimages/hero/pistachios.jpg
 videoURL: 'https://youtu.be/1-NOOoqlvfA'
-_template: hero_template
