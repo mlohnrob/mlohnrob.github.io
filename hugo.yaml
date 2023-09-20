@@ -67,7 +67,7 @@ params:
   - title: Pricing
     url: /
   - title: Contact Us
-    url: /
+    url: /contact
   - title: Get Started
     url: /
     button: true
