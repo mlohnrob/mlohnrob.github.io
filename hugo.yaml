@@ -217,6 +217,8 @@ params:
           link: /
         - text: Privacy policy
           link: /privacy-policy
+        - text: Terms & Conditions
+          link: /terms
       column5:
         title: "Support"
         links:
